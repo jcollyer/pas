@@ -38,8 +38,9 @@ Thank you to everyone who contributed and helped to spread the word!!</p>
 				<img class="picFrame leftFloat"  src="img/kids-play.jpg" />
 				<h3>Play Ground</h3>
 				<p>Kids playing at the wing even though the sun is high and hot. Kids will be kids right? The sad thing is they have already run out of water brought from home at this point.</p>
-				<br /> 
-				<p>For pictures of our December trip, <a href="http://s1277.beta.photobucket.com/user/Plantas eedafrica/library" class="button">Click Here</a></p>
+				<br />  
+
+				<p>For pictures of our December trip, <a href="http://s1277.photobucket.com/user/Plantaseedafrica/library/" class="button">Click Here</a></p>
 				<br /> 
 				<img class="picFrame leftFloat"  src="img/back-to-school.jpg" />
 				<h3>Back To School!</h3>
@@ -56,14 +57,14 @@ Thank you to everyone who contributed and helped to spread the word!!</p>
 				<br /><br />
 				<h3>Jespa Ngong</h3>
 				<img class="picFrame leftFloat"  src="img/jespa-arm.jpg" />
-				<p>He was burned in a fire as an infant and now he's 12 years old. He hasn't been to a doctor since the accident happened. At the time of the accident, he didn't get any major surgery because he fell ill and then the mother had to return to the village. Other than his injuries, he's a pretty normal kid and the other kids are very nice to him now. While visiting him</p>
+				<p>He was burned in a fire as an infant and now he's 12 years old. He hasn't been to a doctor since the accident happened. At the time of the accident, he didn't get any major surgery because he fell ill and then the mother had to return to the village. Other than his injuries, he's a pretty normal kid and the other kids are very nice to him now. While visiting him.</p>
 				<br />
 				<p>December 2012, he said that his eye is painful and lately has started to bleed. We will not be showing the full image but you can see it on our website. The right side of his face and eye is also very burned. We need your support as we start the process of looking into hospital, doctors or foundations to help provide him with reconstructive surgery.</p>
 				<br />
 				<p>Money will be used for communication between Plant A Seed and his parents in Cameroon, passport, visas, forms and fillings to facilitate and speed up the process of finding help for him. We are looking at $500 to cover all these for the moment.</p>
 				<img class="picFrame"  src="img/jespa-helping.jpg" />
 				<p>Jespa helping harvest vegetable with his good arm.</p>
-				<br />
+				<iframe class="iframeClass"  width="420" height="315" src="http://www.youtube.com/embed/QhpvUrAIXow" frameborder="0" allowfullscreen></iframe>				<br />
 			</div>
 			<div class="mission">
 				<div id="communityLink9" class="internalLink">&nbsp;</div>

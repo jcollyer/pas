@@ -23,6 +23,15 @@ $pageTitle = "News & Media";
 			</div>
 			<div class="mission">
 				<div id="newsLink1">&nbsp;</div>
+				<h4>Jespa Ngong</h4>
+				<br />
+						<iframe class="iframeClass"  width="420" height="315" src="http://www.youtube.com/embed/QhpvUrAIXow" frameborder="0" allowfullscreen></iframe>				<br />
+				<p>Jespa helping harvest vegetable with his good arm.</p>
+				<br />
+				<p>He was burned in a fire as an infant and now he's 12 years old. He hasn't been to a doctor since the accident happened. At the time of the accident, he didn't get any major surgery because he fell ill and then the mother had to return to the village. Other than his injuries, he's a pretty normal kid and the other kids are very nice to him now. While visiting him.</p>
+			</div>
+			<div class="mission">
+				<div id="newsLink1">&nbsp;</div>
 				<h4>Trip to Cameroon part 1 & 2</h4>
 				<br />
 				<iframe class="iframeClass" width="420" height="315" src="http://www.youtube.com/embed/i6mOOlevZh4" frameborder="0" allowfullscreen></iframe>
